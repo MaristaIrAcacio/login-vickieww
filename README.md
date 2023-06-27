@@ -1,6 +1,4 @@
-Projeto de login com javascript para adição e remoção de
-
-usuários.
+Projeto de login com javascript para adição e remoção de usuários.
 
 Projeto login da disciplina de Programação Web I, do professor Leonardo, onde foram aplicados conceitos da linguagem Javascript para implementar um sistema de cadastro baseado em vetor.
 
