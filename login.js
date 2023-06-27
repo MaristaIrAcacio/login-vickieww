@@ -4,8 +4,8 @@
 
 function Verificar(){
  let email = document.getElementById('loginEmail').value;
-let number = document.getElementById('senha').value;
- if(!email || !number){
+let senha = document.getElementById('senha').value;
+ if(!email || !senha){
  alert("Campo de preenchimento obrigatório. Favor preencher");
 }
 else {
