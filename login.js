@@ -8,10 +8,13 @@ let number = document.getElementById('senha').value;
  if(!email || !number){
  alert("Campo de preenchimento obrigatório. Favor preencher");
 }
+else {
+
+    alert("Campos preenchidos com sucesso");
+}
 
 }
 
 
 
-//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-//kkkkklkklkkkkkkkkkkhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha
+
