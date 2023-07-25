@@ -8,7 +8,16 @@ function acessar() {
        window.location.href = "aula2.html";
     }
 }
+var dadosLista = [];
+function salvarUser(){
+    let nomeUser = document.getElementById("nomeUser").value;
+if(nomeUser){
 
+        dadosLista.push(nomeUser)
+
+    }
+
+}
 
 
 
